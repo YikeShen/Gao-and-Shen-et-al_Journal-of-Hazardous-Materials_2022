@@ -1,0 +1,247 @@
+﻿Compounds,log Kow,fom (%),MW,SMILES,flip (%),E,S,A,B,V,L,log RCF- water,log RCF-soil,,Citation,,Plant,,
+Penconazole,3.72,0.97,284.18,CCCC(CN1C=NC=N1)C2=C(C=C(C=C2)Cl)Cl,1.1,1.55,1.75,0,0.93,2.0523,8.933,1.57,-0.03,,"Jiang et al., 2016",,Wheat,,calculated(1)
+Penconazole,3.72,3.26,284.18,CCCC(CN1C=NC=N1)C2=C(C=C(C=C2)Cl)Cl,1.1,1.55,1.75,0,0.93,2.0523,8.933,1.66,-0.19,,"Jiang et al., 2016",,Wheat,,calculated(1)
+Penconazole,3.72,5.03,284.18,CCCC(CN1C=NC=N1)C2=C(C=C(C=C2)Cl)Cl,1.1,1.55,1.75,0,0.93,2.0523,8.933,1.63,-0.3,,"Jiang et al., 2016",,Wheat,,calculated(1)
+Penconazole,3.72,1.59,284.18,CCCC(CN1C=NC=N1)C2=C(C=C(C=C2)Cl)Cl,1.1,1.55,1.75,0,0.93,2.0523,8.933,1.47,-0.13,,"Jiang et al., 2016",,Wheat,,calculated(1)
+Penconazole,3.72,2.6,284.18,CCCC(CN1C=NC=N1)C2=C(C=C(C=C2)Cl)Cl,1.1,1.55,1.75,0,0.93,2.0523,8.933,1.46,-0.25,,"Jiang et al., 2016",,Wheat,,calculated(1)
+Aldrin ,5.66,3.6,364.9,C1C2C=CC1C3C2C4(C(=C(C3(C4(Cl)Cl)Cl)Cl)Cl)Cl,0.24,2.07,0.95,0,0.42,2.0134,8.58,1.63,-1.38,,"Harris and Sans, 1967",,Carrot,,experimental
+Aldrin ,5.66,66.5,364.9,C1C2C=CC1C3C2C4(C(=C(C3(C4(Cl)Cl)Cl)Cl)Cl)Cl,0.24,2.07,0.95,0,0.42,2.0134,8.58,1.35,-2.92,,"Harris and Sans, 1967",,Carrot,,experimental
+Dieldrin,4.55,1.4,380.9,C1C2C3C(C1C4C2O4)C5(C(=C(C3(C5(Cl)Cl)Cl)Cl)Cl)Cl,0.24,2.09,1.57,0,0.75,2.0065,8.216,1.23,-0.6,,"Harris and Sans, 1967",,Carrot,,experimental
+Dieldrin,4.55,3.6,380.9,C1C2C3C(C1C4C2O4)C5(C(=C(C3(C5(Cl)Cl)Cl)Cl)Cl)Cl,0.24,2.09,1.57,0,0.75,2.0065,8.216,1.25,-0.99,,"Harris and Sans, 1967",,Carrot,,experimental
+Dieldrin,4.55,66.5,380.9,C1C2C3C(C1C4C2O4)C5(C(=C(C3(C5(Cl)Cl)Cl)Cl)Cl)Cl,0.24,2.09,1.57,0,0.75,2.0065,8.216,1.22,-2.29,,"Harris and Sans, 1967",,Carrot,,experimental
+Dieldrin,4.55,3.6,380.9,C1C2C3C(C1C4C2O4)C5(C(=C(C3(C5(Cl)Cl)Cl)Cl)Cl)Cl,0.1,2.09,1.57,0,0.75,2.0065,8.216,0.91,-1.33,,"Harris and Sans, 1967",,Radish,,experimental
+Dieldrin,4.55,66.5,380.9,C1C2C3C(C1C4C2O4)C5(C(=C(C3(C5(Cl)Cl)Cl)Cl)Cl)Cl,0.1,2.09,1.57,0,0.75,2.0065,8.216,0.92,-2.59,,"Harris and Sans, 1967",,Radish,,experimental
+Dieldrin,4.55,3.6,380.9,C1C2C3C(C1C4C2O4)C5(C(=C(C3(C5(Cl)Cl)Cl)Cl)Cl)Cl,0.1,2.09,1.57,0,0.75,2.0065,8.216,0.69,-1.56,,"Harris and Sans, 1967",,Turnips,,experimental
+"m-DCB  (1,3-DCB)",3.44,2.82,147,C1=CC(=CC(=C1)Cl)Cl,0.34,0.85,0.73,0,0.02,0.9612,4.41,1,0.22,,"Zhang et al., 2005",,Spinach,,experimental
+"m-DCB  (1,3-DCB)",3.44,0.78,147,C1=CC(=CC(=C1)Cl)Cl,0.34,0.85,0.73,0,0.02,0.9612,4.41,0.83,0.61,,"Zhang et al., 2005",,Spinach,,experimental
+"m-DCB  (1,3-DCB)",3.44,1.41,147,C1=CC(=CC(=C1)Cl)Cl,0.24,0.85,0.73,0,0.02,0.9612,4.41,0.45,-0.03,,"Zhang et al., 2005",,Carrot,,experimental
+"m-DCB  (1,3-DCB)",3.44,0.78,147,C1=CC(=CC(=C1)Cl)Cl,0.24,0.85,0.73,0,0.02,0.9612,4.41,0.11,-0.12,,"Zhang et al., 2005",,Carrot,,experimental
+"m-DCB  (1,3-DCB)",3.44,2.82,147,C1=CC(=CC(=C1)Cl)Cl,0.09,0.85,0.73,0,0.02,0.9612,4.41,0.19,-0.59,,"Zhang et al., 2005",,Radish,,experimental
+"m-DCB  (1,3-DCB)",3.44,0.78,147,C1=CC(=CC(=C1)Cl)Cl,0.09,0.85,0.73,0,0.02,0.9612,4.41,0.07,-0.15,,"Zhang et al., 2005",,Radish,,experimental
+"p-DCB (1,4-DCB)",3.37,2.82,147,C1=CC(=CC=C1Cl)Cl,0.34,0.83,0.75,0,0.02,0.9612,4.435,0.85,0.14,,"Zhang et al., 2005",,Spinach,,experimental
+"p-DCB (1,4-DCB)",3.37,1.41,147,C1=CC(=CC=C1Cl)Cl,0.34,0.83,0.75,0,0.02,0.9612,4.435,0.29,-0.12,,"Zhang et al., 2005",,Spinach,,experimental
+"p-DCB (1,4-DCB)",3.37,1.41,147,C1=CC(=CC=C1Cl)Cl,0.09,0.83,0.75,0,0.02,0.9612,4.435,0.04,-0.38,,"Zhang et al., 2005",,Radish,,experimental
+"o-DCB (1,2-DCB)",3.38,0.78,147,C1=CC=C(C(=C1)Cl)Cl,0.34,0.87,0.78,0,0.04,0.9612,4.518,0.87,0.7,,"Zhang et al., 2005",,Spinach,,experimental
+"o-DCB (1,2-DCB)",3.38,0.78,147,C1=CC=C(C(=C1)Cl)Cl,0.24,0.87,0.78,0,0.04,0.9612,4.518,0.17,0,,"Zhang et al., 2005",,Carrot,,experimental
+"o-DCB (1,2-DCB)",3.38,0.78,147,C1=CC=C(C(=C1)Cl)Cl,0.09,0.87,0.78,0,0.04,0.9612,4.518,-0.01,-0.18,,"Zhang et al., 2005",,Radish,,experimental
+"1,2,4-TCB",4.02,2.82,181.4,C1=CC(=C(C=C1Cl)Cl)Cl,0.34,0.98,0.81,0,0,1.0836,5.248,0.9,-0.41,,"Zhang et al., 2005",,Spinach,,experimental
+"1,2,4-TCB",4.02,1.41,181.4,C1=CC(=C(C=C1Cl)Cl)Cl,0.34,0.98,0.81,0,0,1.0836,5.248,0.9,-0.1,,"Zhang et al., 2005",,Spinach,,experimental
+"1,2,4-TCB",4.02,2.82,181.4,C1=CC(=C(C=C1Cl)Cl)Cl,0.17,0.98,0.81,0,0,1.0836,5.248,0.96,-0.35,,"Zhang et al., 2005",,Celery,,experimental
+"1,2,4-TCB",4.02,1.41,181.4,C1=CC(=C(C=C1Cl)Cl)Cl,0.17,0.98,0.81,0,0,1.0836,5.248,0.81,-0.2,,"Zhang et al., 2005",,Celery,,experimental
+"1,2,4-TCB",4.02,0.78,181.4,C1=CC(=C(C=C1Cl)Cl)Cl,0.17,0.98,0.81,0,0,1.0836,5.248,0.67,-0.08,,"Zhang et al., 2005",,Celery,,experimental
+"1,2,4-TCB",4.02,1.41,181.4,C1=CC(=C(C=C1Cl)Cl)Cl,0.24,0.98,0.81,0,0,1.0836,5.248,0.59,-0.41,,"Zhang et al., 2005",,Carrot,,experimental
+"1,2,4-TCB",4.02,2.82,181.4,C1=CC(=C(C=C1Cl)Cl)Cl,0.09,0.98,0.81,0,0,1.0836,5.248,0.36,-0.94,,"Zhang et al., 2005",,Radish,,experimental
+"1,2,4-TCB",4.02,1.41,181.4,C1=CC(=C(C=C1Cl)Cl)Cl,0.09,0.98,0.81,0,0,1.0836,5.248,0.24,-0.76,,"Zhang et al., 2005",,Radish,,experimental
+Fluorene,4.18,12.72,166.22,C1C2=CC=CC=C2C3=CC=CC=C31,0.1,1.59,1.061,0,0.24,1.357,6.922,0.92,-1.59,,"Cai et al., 2008",,Radish,,experimental
+Phenanthrene,4.46,12.72,178.23,C1=CC=C2C(=C1)C=CC3=CC=CC=C32,0.1,2.06,1.29,0,0.26,1.4544,7.632,1.34,-1.45,,"Cai et al., 2008",,Radish,,experimental
+Phenanthrene,4.46,4.84,178.23,C1=CC=C2C(=C1)C=CC3=CC=CC=C32,0.1,2.06,1.29,0,0.26,1.4544,7.632,1.32,-1.05,,"Cai et al., 2008",,Radish,,experimental
+Anthracene,4.54,3.78,178.23,C1=CC=C2C=C3C=CC=CC3=CC2=C1,0.1,2.29,1.34,0,0.28,1.4544,7.568,0.71,-1.63,,"Cai et al., 2008",,Radish,,experimental
+Anthracene,4.54,12.72,178.23,C1=CC=C2C=C3C=CC=CC3=CC2=C1,0.1,2.29,1.34,0,0.28,1.4544,7.568,0.71,-2.15,,"Cai et al., 2008",,Radish,,experimental
+Fluoranthene,5.16,0.79,202.25,C1=CC=C2C(=C1)C3=CC=CC4=C3C2=CC=C4,0.1,2.377,1.55,0,0.24,1.585,8.827,1.56,-0.72,,"Cai et al., 2008",,Radish,,experimental
+Benzo[a]pyrene,6.34,3.78,252.3,C1=CC=C2C3=C4C(=CC2=C1)C=CC5=C4C(=CC=C5)C=C3,0.1,3.63,1.98,0,0.44,1.9536,11.736,1.62,-2.52,,"Cai et al., 2008",,Radish,,experimental
+Di(2-ethylhexyl) phthalate,7.6,6.76,390.6,CCCCC(CC)COC(=O)C1=CC=CC=C1C(=O)OCC(CC)CCCC,0.1,0.64,1.25,0,1.02,3.4014,12.7,2.8,-1.94,,"Cai et al., 2008",,Radish,,experimental
+Di(2-ethylhexyl) phthalate,7.6,12.72,390.6,CCCCC(CC)COC(=O)C1=CC=CC=C1C(=O)OCC(CC)CCCC,0.1,0.64,1.25,0,1.02,3.4014,12.7,2.98,-2.4,,"Cai et al., 2008",,Radish,,experimental
+Phenanthrene,4.46,1.45,178.23,C1=CC=C2C(=C1)C=CC3=CC=CC=C32,0.68,2.06,1.29,0,0.26,1.4544,7.632,0.96,-0.88,,"Gao et al., 2005",,Chinese cabbage,,experimental
+Phenanthrene,4.46,1.45,178.23,C1=CC=C2C(=C1)C=CC3=CC=CC=C32,0.32,2.06,1.29,0,0.26,1.4544,7.632,0.7,-1.15,,"Gao et al., 2005",,Amaranth,,experimental
+Pyrene,5.18,1.45,202.25,C1=CC2=C3C(=C1)C=CC4=CC=CC(=C43)C=C2,0.68,2.81,1.71,0,0.28,1.5846,8.833,2.31,-0.26,,"Gao et al., 2005",,Chinese cabbage,,experimental
+HCB,5.5,6.36,284.8,C1(=C(C(=C(C(=C1Cl)Cl)Cl)Cl)Cl)Cl,0.1,1.49,0.99,0,0,1.4508,7.39,0.95,-2.11,,"Mikes et al., 2009",,Radish,,experimental
+"o,p'-DDE",5.76,6.36,318,C1=CC=C(C(=C1)C(=C(Cl)Cl)C2=CC=C(C=C2)Cl)Cl,0.1,1.9,1.5,0,0.18,2.0526,8.908,1.74,-1.49,,"Mikes et al., 2009",,Radish,,experimental
+"p,p'-DDE",5.91,6.36,318,C1=CC(=CC=C1C(=C(Cl)Cl)C2=CC=C(C=C2)Cl)Cl,0.1,1.8,1.4,0.06,0.14,2.0526,9.73,2.03,-1.24,,"Mikes et al., 2009",,Radish,,experimental
+"o,p'-DDD",5.82,6.36,320,C1=CC=C(C(=C1)C(C2=CC=C(C=C2)Cl)C(Cl)Cl)Cl,0.1,1.8,1.73,0.1,0.26,2.0956,9.566,2.03,-1.25,,"Mikes et al., 2009",,Radish,,experimental
+"p,p'-DDD",5.69,6.36,320,C1=CC(=CC=C1C(C2=CC=C(C=C2)Cl)C(Cl)Cl)Cl,0.1,1.76,1.71,0.02,0.22,2.0956,9.86,2.12,-1.05,,"Mikes et al., 2009",,Radish,,experimental
+"o,p'-DDT",6.19,6.36,354.5,C1=CC=C(C(=C1)C(C2=CC=C(C=C2)Cl)C(Cl)(Cl)Cl)Cl,0.1,1.85,1.7,0,0.25,2.218,9.555,2.32,-1.3,,"Mikes et al., 2009",,Radish,,experimental
+"p,p'-DDT",5.98,6.36,354.5,C1=CC(=CC=C1C(C2=CC=C(C=C2)Cl)C(Cl)(Cl)Cl)Cl,0.1,1.81,1.76,0,0.16,2.218,10.02,2.4,-1.74,,"Mikes et al., 2009",,Radish,,experimental
+PCB 101,6.5,6.36,326.4,C1=CC(=C(C=C1Cl)C2=CC(=C(C=C2Cl)Cl)Cl)Cl,0.1,2.04,1.61,0,0.13,1.9362,8.868,2.32,-1.72,,"Mikes et al., 2009",,Radish,,experimental
+PCB 153,6.9,6.36,360.9,C1=C(C(=CC(=C1Cl)Cl)Cl)C2=CC(=C(C=C2Cl)Cl)Cl,0.1,2.18,1.74,0,0.11,2.0586,9.587,2.48,-2.03,,"Mikes et al., 2009",,Radish,,experimental
+PCB 138,6.69,6.36,360.9,C1=CC(=C(C(=C1C2=CC(=C(C=C2Cl)Cl)Cl)Cl)Cl)Cl,0.1,2.18,1.74,0,0.11,2.0586,9.772,2.26,-2.09,,"Mikes et al., 2009",,Radish,,experimental
+PCB 180,7.2,6.36,395.3,C1=C(C(=CC(=C1Cl)Cl)Cl)C2=CC(=C(C(=C2Cl)Cl)Cl)Cl,0.1,2.29,1.87,0,0.09,2.181,10.415,2.4,-2.07,,"Mikes et al., 2009",,Radish,,experimental
+BDE-100,7.24,3.19,564.7,C1=CC(=C(C=C1Br)Br)OC2=C(C=C(C=C2Br)Br)Br,0.53,2.71,1.48,0,0.41,2.2579,11.48,2.61,-1.66,,"Huang et al., 2011",,Maize,,experimental
+BDE-100,7.24,3.19,564.7,C1=CC(=C(C=C1Br)Br)OC2=C(C=C(C=C2Br)Br)Br,0.56,2.71,1.48,0,0.41,2.2579,11.48,2.76,-1.51,,"Huang et al., 2011",,Ryegrass,,experimental
+BDE-100,7.24,1.9,564.7,C1=CC(=C(C=C1Br)Br)OC2=C(C=C(C=C2Br)Br)Br,0.7,2.71,1.48,0,0.41,2.2579,11.48,2.88,-1.17,,"Huang et al., 2011",,Pumpkin,,experimental
+BDE-100,7.24,1.9,564.7,C1=CC(=C(C=C1Br)Br)OC2=C(C=C(C=C2Br)Br)Br,0.53,2.71,1.48,0,0.41,2.2579,11.48,2.84,-1.21,,"Huang et al., 2011",,Maize,,experimental
+BDE-100,7.24,0.98,564.7,C1=CC(=C(C=C1Br)Br)OC2=C(C=C(C=C2Br)Br)Br,0.7,2.71,1.48,0,0.41,2.2579,11.48,2.69,-1.07,,"Huang et al., 2011",,Pumpkin,,experimental
+BDE-100,7.24,0.98,564.7,C1=CC(=C(C=C1Br)Br)OC2=C(C=C(C=C2Br)Br)Br,0.53,2.71,1.48,0,0.41,2.2579,11.48,2.7,-1.05,,"Huang et al., 2011",,Maize,,experimental
+BDE-153,7.9,3.19,643.6,C1=C(C(=CC(=C1Br)Br)Br)OC2=CC(=C(C=C2Br)Br)Br,0.7,3.09,1.54,0,0.52,2.4329,12.65,2.95,-1.92,,"Huang et al., 2011",,Pumpkin,,experimental
+BDE-153,7.9,1.9,643.6,C1=C(C(=CC(=C1Br)Br)Br)OC2=CC(=C(C=C2Br)Br)Br,0.7,3.09,1.54,0,0.52,2.4329,12.65,3.19,-1.45,,"Huang et al., 2011",,Pumpkin,,experimental
+BDE-153,7.9,1.9,643.6,C1=C(C(=CC(=C1Br)Br)Br)OC2=CC(=C(C=C2Br)Br)Br,0.53,3.09,1.54,0,0.52,2.4329,12.65,3.39,-1.25,,"Huang et al., 2011",,Maize,,experimental
+BDE-153,7.9,0.98,643.6,C1=C(C(=CC(=C1Br)Br)Br)OC2=CC(=C(C=C2Br)Br)Br,0.7,3.09,1.54,0,0.52,2.4329,12.65,3.3,-1.05,,"Huang et al., 2011",,Pumpkin,,experimental
+BDE-153,7.9,0.98,643.6,C1=C(C(=CC(=C1Br)Br)Br)OC2=CC(=C(C=C2Br)Br)Br,0.53,3.09,1.54,0,0.52,2.4329,12.65,3.34,-1.01,,"Huang et al., 2011",,Maize,,experimental
+BDE-154,7.82,3.19,643.6,C1=C(C=C(C(=C1Br)OC2=CC(=C(C=C2Br)Br)Br)Br)Br,0.7,3.09,1.5,0,0.53,2.4329,12.58,3.52,-1.27,,"Huang et al., 2011",,Pumpkin,,experimental
+BDE-154,7.82,3.19,643.6,C1=C(C=C(C(=C1Br)OC2=CC(=C(C=C2Br)Br)Br)Br)Br,0.53,3.09,1.5,0,0.53,2.4329,12.58,3.59,-1.2,,"Huang et al., 2011",,Maize,,experimental
+BDE-154,7.82,1.9,643.6,C1=C(C=C(C(=C1Br)OC2=CC(=C(C=C2Br)Br)Br)Br)Br,0.7,3.09,1.5,0,0.53,2.4329,12.58,3.34,-1.23,,"Huang et al., 2011",,Pumpkin,,experimental
+BDE-154,7.82,1.9,643.6,C1=C(C=C(C(=C1Br)OC2=CC(=C(C=C2Br)Br)Br)Br)Br,0.53,3.09,1.5,0,0.53,2.4329,12.58,3.24,-1.33,,"Huang et al., 2011",,Maize,,experimental
+BDE-154,7.82,0.98,643.6,C1=C(C=C(C(=C1Br)OC2=CC(=C(C=C2Br)Br)Br)Br)Br,0.7,3.09,1.5,0,0.53,2.4329,12.58,3.14,-1.15,,"Huang et al., 2011",,Pumpkin,,experimental
+BDE-154,7.82,0.98,643.6,C1=C(C=C(C(=C1Br)OC2=CC(=C(C=C2Br)Br)Br)Br)Br,0.53,3.09,1.5,0,0.53,2.4329,12.58,3.22,-1.06,,"Huang et al., 2011",,Maize,,experimental
+BDE-183,8.27,3.19,722.5,C1=C(C(=CC(=C1Br)Br)Br)OC2=C(C(=C(C=C2Br)Br)Br)Br,0.7,3.51,1.65,0,0.57,2.6079,13.62,3.65,-1.55,,"Huang et al., 2011",,Pumpkin,,experimental
+BDE-183,8.27,3.19,722.5,C1=C(C(=CC(=C1Br)Br)Br)OC2=C(C(=C(C=C2Br)Br)Br)Br,0.53,3.51,1.65,0,0.57,2.6079,13.62,3.62,-1.59,,"Huang et al., 2011",,Maize,,experimental
+BDE-183,8.27,1.9,722.5,C1=C(C(=CC(=C1Br)Br)Br)OC2=C(C(=C(C=C2Br)Br)Br)Br,0.7,3.51,1.65,0,0.57,2.6079,13.62,3.81,-1.17,,"Huang et al., 2011",,Pumpkin,,experimental
+BDE-183,8.27,1.9,722.5,C1=C(C(=CC(=C1Br)Br)Br)OC2=C(C(=C(C=C2Br)Br)Br)Br,0.53,3.51,1.65,0,0.57,2.6079,13.62,4.02,-0.96,,"Huang et al., 2011",,Maize,,experimental
+BDE-183,8.27,0.98,722.5,C1=C(C(=CC(=C1Br)Br)Br)OC2=C(C(=C(C=C2Br)Br)Br)Br,0.7,3.51,1.65,0,0.57,2.6079,13.62,2.99,-1.7,,"Huang et al., 2011",,Pumpkin,,experimental
+BDE-183,8.27,0.98,722.5,C1=C(C(=CC(=C1Br)Br)Br)OC2=C(C(=C(C=C2Br)Br)Br)Br,0.53,3.51,1.65,0,0.57,2.6079,13.62,3.17,-1.52,,"Huang et al., 2011",,Maize,,experimental
+BDE-28,5.94,3.19,406.89,C1=CC(=CC=C1OC2=C(C=C(C=C2)Br)Br)Br,0.53,2.07,1.38,0,0.27,1.9079,9.68,1.96,-1.13,,"Huang et al., 2011",,Maize,,experimental
+BDE-28,5.94,1.9,406.89,C1=CC(=CC=C1OC2=C(C=C(C=C2)Br)Br)Br,0.53,2.07,1.38,0,0.27,1.9079,9.68,1.95,-0.92,,"Huang et al., 2011",,Maize,,experimental
+BDE-47,6.81,3.19,485.79,C1=CC(=C(C=C1Br)Br)OC2=C(C=C(C=C2)Br)Br,0.7,2.32,1.45,0,0.34,2.0829,10.66,3.09,-0.8,,"Huang et al., 2011",,Pumpkin,,experimental
+BDE-47,6.81,3.19,485.79,C1=CC(=C(C=C1Br)Br)OC2=C(C=C(C=C2)Br)Br,0.53,2.32,1.45,0,0.34,2.0829,10.66,3,-0.88,,"Huang et al., 2011",,Maize,,experimental
+BDE-47,6.81,1.9,485.79,C1=CC(=C(C=C1Br)Br)OC2=C(C=C(C=C2)Br)Br,0.7,2.32,1.45,0,0.34,2.0829,10.66,3.02,-0.64,,"Huang et al., 2011",,Pumpkin,,experimental
+BDE-47,6.81,1.9,485.79,C1=CC(=C(C=C1Br)Br)OC2=C(C=C(C=C2)Br)Br,0.53,2.32,1.45,0,0.34,2.0829,10.66,2.9,-0.75,,"Huang et al., 2011",,Maize,,experimental
+BDE-47,6.81,0.98,485.79,C1=CC(=C(C=C1Br)Br)OC2=C(C=C(C=C2)Br)Br,0.7,2.32,1.45,0,0.34,2.0829,10.66,2.45,-0.92,,"Huang et al., 2011",,Pumpkin,,experimental
+BDE-47,6.81,0.98,485.79,C1=CC(=C(C=C1Br)Br)OC2=C(C=C(C=C2)Br)Br,0.53,2.32,1.45,0,0.34,2.0829,10.66,2.32,-1.05,,"Huang et al., 2011",,Maize,,experimental
+BDE-99,7.32,3.19,564.7,C1=CC(=C(C=C1Br)Br)OC2=CC(=C(C=C2Br)Br)Br,0.7,2.71,1.51,0,0.44,2.2579,11.71,3.27,-1.07,,"Huang et al., 2011",,Pumpkin,,experimental
+BDE-99,7.32,3.19,564.7,C1=CC(=C(C=C1Br)Br)OC2=CC(=C(C=C2Br)Br)Br,0.53,2.71,1.51,0,0.44,2.2579,11.71,3.26,-1.08,,"Huang et al., 2011",,Maize,,experimental
+BDE-99,7.32,1.9,564.7,C1=CC(=C(C=C1Br)Br)OC2=CC(=C(C=C2Br)Br)Br,0.7,2.71,1.51,0,0.44,2.2579,11.71,3.21,-0.9,,"Huang et al., 2011",,Pumpkin,,experimental
+BDE-99,7.32,1.9,564.7,C1=CC(=C(C=C1Br)Br)OC2=CC(=C(C=C2Br)Br)Br,0.53,2.71,1.51,0,0.44,2.2579,11.71,3.06,-1.06,,"Huang et al., 2011",,Maize,,experimental
+BDE-99,7.32,0.98,564.7,C1=CC(=C(C=C1Br)Br)OC2=CC(=C(C=C2Br)Br)Br,0.7,2.71,1.51,0,0.44,2.2579,11.71,2.85,-0.98,,"Huang et al., 2011",,Pumpkin,,experimental
+BDE-99,7.32,0.98,564.7,C1=CC(=C(C=C1Br)Br)OC2=CC(=C(C=C2Br)Br)Br,0.53,2.71,1.51,0,0.44,2.2579,11.71,2.78,-1.05,,"Huang et al., 2011",,Maize,,experimental
+Dieldrin,4.55,13.28,380.9,C1C2C3C(C1C4C2O4)C5(C(=C(C3(C5(Cl)Cl)Cl)Cl)Cl)Cl,0.53,2.09,1.57,0,0.75,2.0065,8.216,1.99,-0.82,,"Beestman et al., 1969",,Maize,,experimental
+Dieldrin,4.55,0.69,380.9,C1C2C3C(C1C4C2O4)C5(C(=C(C3(C5(Cl)Cl)Cl)Cl)Cl)Cl,0.53,2.09,1.57,0,0.75,2.0065,8.216,2.03,0.52,,"Beestman et al., 1969",,Maize,,experimental
+Dieldrin,4.55,0.86,380.9,C1C2C3C(C1C4C2O4)C5(C(=C(C3(C5(Cl)Cl)Cl)Cl)Cl)Cl,0.53,2.09,1.57,0,0.75,2.0065,8.216,2.01,0.38,,"Beestman et al., 1969",,Maize,,experimental
+Dieldrin,4.55,6.55,380.9,C1C2C3C(C1C4C2O4)C5(C(=C(C3(C5(Cl)Cl)Cl)Cl)Cl)Cl,0.53,2.09,1.57,0,0.75,2.0065,8.216,1.96,-0.54,,"Beestman et al., 1969",,Maize,,experimental
+Dieldrin,4.55,1.21,380.9,C1C2C3C(C1C4C2O4)C5(C(=C(C3(C5(Cl)Cl)Cl)Cl)Cl)Cl,0.53,2.09,1.57,0,0.75,2.0065,8.216,2,0.22,,"Beestman et al., 1969",,Maize,,experimental
+Dieldrin,4.55,8.97,380.9,C1C2C3C(C1C4C2O4)C5(C(=C(C3(C5(Cl)Cl)Cl)Cl)Cl)Cl,0.53,2.09,1.57,0,0.75,2.0065,8.216,2.01,-0.64,,"Beestman et al., 1969",,Maize,,experimental
+"1,4-DCB",3.37,3.55,147,C1=CC(=CC=C1Cl)Cl,1,0.83,0.75,0,0.02,0.9612,4.435,1.72,1.03,,"Scheunert et al., 1994",,Barely,,experimental
+"1,2,4-TCB",4.02,3.55,181.4,C1=CC(=C(C=C1Cl)Cl)Cl,1,0.98,0.81,0,0,1.0836,5.248,1.98,0.65,,"Scheunert et al., 1994",,Barely,,experimental
+"1,2,3,5-TeCB",4.59,3.55,215.9,C1=C(C=C(C(=C1Cl)Cl)Cl)Cl,1,1.16,0.85,0,0,1.206,5.922,2.39,0.75,,"Scheunert et al., 1994",,Barely,,experimental
+Pentachlorobeneze,5.03,3.55,250.3,C1=C(C(=C(C(=C1Cl)Cl)Cl)Cl)Cl,1,1.33,0.92,0.06,0,1.3284,6.63,2.07,0.03,,"Scheunert et al., 1994",,Barely,,experimental
+Hexachlorobenze,5.5,3.55,284.8,C1(=C(C(=C(C(=C1Cl)Cl)Cl)Cl)Cl)Cl,1,1.49,0.99,0,0,1.4508,7.39,2.27,-0.09,,"Scheunert et al., 1994",,Barely,,experimental
+Naphthalene,3.36,5.31,128.17,C1=CC=C2C=CC=CC2=C1,1.14,1.34,0.92,0,0.2,1.0854,5.161,0.88,-0.42,,"Tao et al., 2009",,Wheat,,experimental
+Naphthalene,3.36,1.41,128.17,C1=CC=C2C=CC=CC2=C1,1.14,1.34,0.92,0,0.2,1.0854,5.161,0.72,-0.01,,"Tao et al., 2009",,Wheat,,experimental
+Naphthalene,3.36,4.33,128.17,C1=CC=C2C=CC=CC2=C1,1.14,1.34,0.92,0,0.2,1.0854,5.161,1.06,-0.16,,"Tao et al., 2009",,Wheat,,experimental
+Naphthalene,3.36,2.71,128.17,C1=CC=C2C=CC=CC2=C1,1.14,1.34,0.92,0,0.2,1.0854,5.161,1.18,0.17,,"Tao et al., 2009",,Wheat,,experimental
+Naphthalene,3.36,5.71,128.17,C1=CC=C2C=CC=CC2=C1,1.14,1.34,0.92,0,0.2,1.0854,5.161,0.73,-0.61,,"Tao et al., 2009",,Wheat,,experimental
+Naphthalene,3.36,2.6,128.17,C1=CC=C2C=CC=CC2=C1,1.14,1.34,0.92,0,0.2,1.0854,5.161,0.98,-0.02,,"Tao et al., 2009",,Wheat,,experimental
+Naphthalene,3.36,4.81,128.17,C1=CC=C2C=CC=CC2=C1,1.14,1.34,0.92,0,0.2,1.0854,5.161,0.82,-0.44,,"Tao et al., 2009",,Wheat,,experimental
+Naphthalene,3.36,2.67,128.17,C1=CC=C2C=CC=CC2=C1,1.14,1.34,0.92,0,0.2,1.0854,5.161,0.84,-0.17,,"Tao et al., 2009",,Wheat,,experimental
+Naphthalene,3.36,4.74,128.17,C1=CC=C2C=CC=CC2=C1,1.14,1.34,0.92,0,0.2,1.0854,5.161,1.08,-0.18,,"Tao et al., 2009",,Wheat,,experimental
+Naphthalene,3.36,4.16,128.17,C1=CC=C2C=CC=CC2=C1,1.14,1.34,0.92,0,0.2,1.0854,5.161,1.1,-0.1,,"Tao et al., 2009",,Wheat,,experimental
+Acenaphthene,3.92,4.33,154.21,C1CC2=CC=CC3=C2C1=CC=C3,1.14,1.6,1.05,0,0.22,1.2586,6.469,1.67,-0.11,,"Tao et al., 2009",,Wheat,,experimental
+Acenaphthene,3.92,2.71,154.21,C1CC2=CC=CC3=C2C1=CC=C3,1.14,1.6,1.05,0,0.22,1.2586,6.469,1.56,-0.02,,"Tao et al., 2009",,Wheat,,experimental
+Acenaphthene,3.92,5.71,154.21,C1CC2=CC=CC3=C2C1=CC=C3,1.14,1.6,1.05,0,0.22,1.2586,6.469,1.21,-0.68,,"Tao et al., 2009",,Wheat,,experimental
+Acenaphthene,3.92,2.6,154.21,C1CC2=CC=CC3=C2C1=CC=C3,1.14,1.6,1.05,0,0.22,1.2586,6.469,1.47,-0.09,,"Tao et al., 2009",,Wheat,,experimental
+Acenaphthene,3.92,3.47,154.21,C1CC2=CC=CC3=C2C1=CC=C3,1.14,1.6,1.05,0,0.22,1.2586,6.469,1.16,-0.53,,"Tao et al., 2009",,Wheat,,experimental
+Acenaphthene,3.92,5.31,154.21,C1CC2=CC=CC3=C2C1=CC=C3,1.14,1.6,1.05,0,0.22,1.2586,6.469,1.49,-0.38,,"Tao et al., 2009",,Wheat,,experimental
+Acenaphthene,3.92,3.47,154.21,C1CC2=CC=CC3=C2C1=CC=C3,1.14,1.6,1.05,0,0.22,1.2586,6.469,1.23,-0.46,,"Tao et al., 2009",,Wheat,,experimental
+Acenaphthene,3.92,6.22,154.21,C1CC2=CC=CC3=C2C1=CC=C3,1.14,1.6,1.05,0,0.22,1.2586,6.469,1.26,-0.68,,"Tao et al., 2009",,Wheat,,experimental
+Acenaphthene,3.92,4.81,154.21,C1CC2=CC=CC3=C2C1=CC=C3,1.14,1.6,1.05,0,0.22,1.2586,6.469,1.51,-0.31,,"Tao et al., 2009",,Wheat,,experimental
+Acenaphthene,3.92,2.67,154.21,C1CC2=CC=CC3=C2C1=CC=C3,1.14,1.6,1.05,0,0.22,1.2586,6.469,1.39,-0.18,,"Tao et al., 2009",,Wheat,,experimental
+Acenaphthene,3.92,4.74,154.21,C1CC2=CC=CC3=C2C1=CC=C3,1.14,1.6,1.05,0,0.22,1.2586,6.469,1.57,-0.25,,"Tao et al., 2009",,Wheat,,experimental
+Acenaphthene,3.92,4.16,154.21,C1CC2=CC=CC3=C2C1=CC=C3,1.14,1.6,1.05,0,0.22,1.2586,6.469,1.37,-0.39,,"Tao et al., 2009",,Wheat,,experimental
+Fluorene,4.18,1.41,166.22,C1C2=CC=CC=C2C3=CC=CC=C31,1.14,1.59,1.061,0,0.24,1.357,6.922,1.51,-0.04,,"Tao et al., 2009",,Wheat,,experimental
+Fluorene,4.18,4.33,166.22,C1C2=CC=CC=C2C3=CC=CC=C31,1.14,1.59,1.061,0,0.24,1.357,6.922,1.76,-0.28,,"Tao et al., 2009",,Wheat,,experimental
+Fluorene,4.18,5.71,166.22,C1C2=CC=CC=C2C3=CC=CC=C31,1.14,1.59,1.061,0,0.24,1.357,6.922,1.61,-0.55,,"Tao et al., 2009",,Wheat,,experimental
+Fluorene,4.18,3.47,166.22,C1C2=CC=CC=C2C3=CC=CC=C31,1.14,1.59,1.061,0,0.24,1.357,6.922,1.59,-0.35,,"Tao et al., 2009",,Wheat,,experimental
+Fluorene,4.18,5.31,166.22,C1C2=CC=CC=C2C3=CC=CC=C31,1.14,1.59,1.061,0,0.24,1.357,6.922,1.73,-0.4,,"Tao et al., 2009",,Wheat,,experimental
+Fluorene,4.18,3.47,166.22,C1C2=CC=CC=C2C3=CC=CC=C31,1.14,1.59,1.061,0,0.24,1.357,6.922,1.46,-0.48,,"Tao et al., 2009",,Wheat,,experimental
+Fluorene,4.18,6.22,166.22,C1C2=CC=CC=C2C3=CC=CC=C31,1.14,1.59,1.061,0,0.24,1.357,6.922,1.53,-0.66,,"Tao et al., 2009",,Wheat,,experimental
+Fluorene,4.18,4.81,166.22,C1C2=CC=CC=C2C3=CC=CC=C31,1.14,1.59,1.061,0,0.24,1.357,6.922,1.88,-0.2,,"Tao et al., 2009",,Wheat,,experimental
+Fluorene,4.18,2.67,166.22,C1C2=CC=CC=C2C3=CC=CC=C31,1.14,1.59,1.061,0,0.24,1.357,6.922,1.71,-0.12,,"Tao et al., 2009",,Wheat,,experimental
+Fluorene,4.18,4.16,166.22,C1C2=CC=CC=C2C3=CC=CC=C31,1.14,1.59,1.061,0,0.24,1.357,6.922,1.72,-0.3,,"Tao et al., 2009",,Wheat,,experimental
+Phenanthrene,4.46,5.31,178.23,C1=CC=C2C(=C1)C=CC3=CC=CC=C32,1.14,2.06,1.29,0,0.26,1.4544,7.632,1.67,-0.74,,"Tao et al., 2009",,Wheat,,experimental
+Phenanthrene,4.46,1.41,178.23,C1=CC=C2C(=C1)C=CC3=CC=CC=C32,1.14,2.06,1.29,0,0.26,1.4544,7.632,1.67,-0.16,,"Tao et al., 2009",,Wheat,,experimental
+Phenanthrene,4.46,4.33,178.23,C1=CC=C2C(=C1)C=CC3=CC=CC=C32,1.14,2.06,1.29,0,0.26,1.4544,7.632,2.05,-0.27,,"Tao et al., 2009",,Wheat,,experimental
+Phenanthrene,4.46,2.71,178.23,C1=CC=C2C(=C1)C=CC3=CC=CC=C32,1.14,2.06,1.29,0,0.26,1.4544,7.632,1.98,-0.14,,"Tao et al., 2009",,Wheat,,experimental
+Phenanthrene,4.46,5.71,178.23,C1=CC=C2C(=C1)C=CC3=CC=CC=C32,1.14,2.06,1.29,0,0.26,1.4544,7.632,1.64,-0.8,,"Tao et al., 2009",,Wheat,,experimental
+Phenanthrene,4.46,2.6,178.23,C1=CC=C2C(=C1)C=CC3=CC=CC=C32,1.14,2.06,1.29,0,0.26,1.4544,7.632,1.96,-0.14,,"Tao et al., 2009",,Wheat,,experimental
+Phenanthrene,4.46,3.47,178.23,C1=CC=C2C(=C1)C=CC3=CC=CC=C32,1.14,2.06,1.29,0,0.26,1.4544,7.632,1.68,-0.54,,"Tao et al., 2009",,Wheat,,experimental
+Phenanthrene,4.46,5.31,178.23,C1=CC=C2C(=C1)C=CC3=CC=CC=C32,1.14,2.06,1.29,0,0.26,1.4544,7.632,1.85,-0.56,,"Tao et al., 2009",,Wheat,,experimental
+Phenanthrene,4.46,6.22,178.23,C1=CC=C2C(=C1)C=CC3=CC=CC=C32,1.14,2.06,1.29,0,0.26,1.4544,7.632,1.75,-0.72,,"Tao et al., 2009",,Wheat,,experimental
+Phenanthrene,4.46,4.81,178.23,C1=CC=C2C(=C1)C=CC3=CC=CC=C32,1.14,2.06,1.29,0,0.26,1.4544,7.632,2.01,-0.36,,"Tao et al., 2009",,Wheat,,experimental
+Phenanthrene,4.46,2.67,178.23,C1=CC=C2C(=C1)C=CC3=CC=CC=C32,1.14,2.06,1.29,0,0.26,1.4544,7.632,1.89,-0.22,,"Tao et al., 2009",,Wheat,,experimental
+Phenanthrene,4.46,4.74,178.23,C1=CC=C2C(=C1)C=CC3=CC=CC=C32,1.14,2.06,1.29,0,0.26,1.4544,7.632,1.89,-0.47,,"Tao et al., 2009",,Wheat,,experimental
+Phenanthrene,4.46,4.16,178.23,C1=CC=C2C(=C1)C=CC3=CC=CC=C32,1.14,2.06,1.29,0,0.26,1.4544,7.632,1.89,-0.41,,"Tao et al., 2009",,Wheat,,experimental
+Anthracene,4.54,5.31,178.23,C1=CC=C2C=C3C=CC=CC3=CC2=C1,1.14,2.29,1.34,0,0.28,1.4544,7.568,1.62,-0.87,,"Tao et al., 2009",,Wheat,,experimental
+Anthracene,4.54,1.41,178.23,C1=CC=C2C=C3C=CC=CC3=CC2=C1,1.14,2.29,1.34,0,0.28,1.4544,7.568,1.69,-0.22,,"Tao et al., 2009",,Wheat,,experimental
+Anthracene,4.54,2.71,178.23,C1=CC=C2C=C3C=CC=CC3=CC2=C1,1.14,2.29,1.34,0,0.28,1.4544,7.568,1.95,-0.24,,"Tao et al., 2009",,Wheat,,experimental
+Anthracene,4.54,5.71,178.23,C1=CC=C2C=C3C=CC=CC3=CC2=C1,1.14,2.29,1.34,0,0.28,1.4544,7.568,1.82,-0.7,,"Tao et al., 2009",,Wheat,,experimental
+Anthracene,4.54,2.6,178.23,C1=CC=C2C=C3C=CC=CC3=CC2=C1,1.14,2.29,1.34,0,0.28,1.4544,7.568,1.67,-0.51,,"Tao et al., 2009",,Wheat,,experimental
+Anthracene,4.54,3.47,178.23,C1=CC=C2C=C3C=CC=CC3=CC2=C1,1.14,2.29,1.34,0,0.28,1.4544,7.568,1.97,-0.34,,"Tao et al., 2009",,Wheat,,experimental
+Anthracene,4.54,5.31,178.23,C1=CC=C2C=C3C=CC=CC3=CC2=C1,1.14,2.29,1.34,0,0.28,1.4544,7.568,2.1,-0.39,,"Tao et al., 2009",,Wheat,,experimental
+Anthracene,4.54,3.47,178.23,C1=CC=C2C=C3C=CC=CC3=CC2=C1,1.14,2.29,1.34,0,0.28,1.4544,7.568,1.35,-0.95,,"Tao et al., 2009",,Wheat,,experimental
+Anthracene,4.54,6.22,178.23,C1=CC=C2C=C3C=CC=CC3=CC2=C1,1.14,2.29,1.34,0,0.28,1.4544,7.568,1.89,-0.66,,"Tao et al., 2009",,Wheat,,experimental
+Anthracene,4.54,4.81,178.23,C1=CC=C2C=C3C=CC=CC3=CC2=C1,1.14,2.29,1.34,0,0.28,1.4544,7.568,2.15,-0.29,,"Tao et al., 2009",,Wheat,,experimental
+Anthracene,4.54,4.74,178.23,C1=CC=C2C=C3C=CC=CC3=CC2=C1,1.14,2.29,1.34,0,0.28,1.4544,7.568,2.09,-0.35,,"Tao et al., 2009",,Wheat,,experimental
+Anthracene,4.54,4.16,178.23,C1=CC=C2C=C3C=CC=CC3=CC2=C1,1.14,2.29,1.34,0,0.28,1.4544,7.568,2.09,-0.29,,"Tao et al., 2009",,Wheat,,experimental
+Fluoranthene,5.16,1.41,202.25,C1=CC=C2C(=C1)C3=CC=CC4=C3C2=CC=C4,1.14,2.377,1.55,0,0.24,1.585,8.827,2.54,0.01,,"Tao et al., 2009",,Wheat,,experimental
+Fluoranthene,5.16,4.33,202.25,C1=CC=C2C(=C1)C3=CC=CC4=C3C2=CC=C4,1.14,2.377,1.55,0,0.24,1.585,8.827,2.59,-0.43,,"Tao et al., 2009",,Wheat,,experimental
+Fluoranthene,5.16,5.71,202.25,C1=CC=C2C(=C1)C3=CC=CC4=C3C2=CC=C4,1.14,2.377,1.55,0,0.24,1.585,8.827,2.69,-0.45,,"Tao et al., 2009",,Wheat,,experimental
+Fluoranthene,5.16,3.47,202.25,C1=CC=C2C(=C1)C3=CC=CC4=C3C2=CC=C4,1.14,2.377,1.55,0,0.24,1.585,8.827,2.66,-0.26,,"Tao et al., 2009",,Wheat,,experimental
+Fluoranthene,5.16,5.31,202.25,C1=CC=C2C(=C1)C3=CC=CC4=C3C2=CC=C4,1.14,2.377,1.55,0,0.24,1.585,8.827,2.66,-0.45,,"Tao et al., 2009",,Wheat,,experimental
+Pyrene,5.18,1.41,202.25,C1=CC2=C3C(=C1)C=CC4=CC=CC(=C43)C=C2,1.14,2.81,1.71,0,0.28,1.5846,8.833,2.42,-0.13,,"Tao et al., 2009",,Wheat,,experimental
+Pyrene,5.18,4.33,202.25,C1=CC2=C3C(=C1)C=CC4=CC=CC(=C43)C=C2,1.14,2.81,1.71,0,0.28,1.5846,8.833,2.54,-0.5,,"Tao et al., 2009",,Wheat,,experimental
+Pyrene,5.18,5.71,202.25,C1=CC2=C3C(=C1)C=CC4=CC=CC(=C43)C=C2,1.14,2.81,1.71,0,0.28,1.5846,8.833,2.63,-0.53,,"Tao et al., 2009",,Wheat,,experimental
+Pyrene,5.18,3.47,202.25,C1=CC2=C3C(=C1)C=CC4=CC=CC(=C43)C=C2,1.14,2.81,1.71,0,0.28,1.5846,8.833,2.66,-0.28,,"Tao et al., 2009",,Wheat,,experimental
+Pyrene,5.18,5.31,202.25,C1=CC2=C3C(=C1)C=CC4=CC=CC(=C43)C=C2,1.14,2.81,1.71,0,0.28,1.5846,8.833,2.53,-0.6,,"Tao et al., 2009",,Wheat,,experimental
+Pyrene,5.18,6.22,202.25,C1=CC2=C3C(=C1)C=CC4=CC=CC(=C43)C=C2,1.14,2.81,1.71,0,0.28,1.5846,8.833,2.66,-0.53,,"Tao et al., 2009",,Wheat,,experimental
+Benzo[a]anthracene,5.61,1.41,228.3,C1=CC=C2C(=C1)C=CC3=CC4=CC=CC=C4C=C32,1.14,2.99,1.7,0,0.35,1.8234,10.291,3.09,0.11,,"Tao et al., 2009",,Wheat,,experimental
+Benzo[a]anthracene,5.61,4.33,228.3,C1=CC=C2C(=C1)C=CC3=CC4=CC=CC=C4C=C32,1.14,2.99,1.7,0,0.35,1.8234,10.291,3.03,-0.44,,"Tao et al., 2009",,Wheat,,experimental
+Benzo[a]anthracene,5.61,5.31,228.3,C1=CC=C2C(=C1)C=CC3=CC4=CC=CC=C4C=C32,1.14,2.99,1.7,0,0.35,1.8234,10.291,2.84,-0.72,,"Tao et al., 2009",,Wheat,,experimental
+Benzo[a]anthracene,5.61,3.47,228.3,C1=CC=C2C(=C1)C=CC3=CC4=CC=CC=C4C=C32,1.14,2.99,1.7,0,0.35,1.8234,10.291,3.03,-0.35,,"Tao et al., 2009",,Wheat,,experimental
+Chrysene,5.73,5.31,228.3,C1=CC=C2C(=C1)C=CC3=C2C=CC4=CC=CC=C43,1.14,3.03,1.73,0,0.33,1.8234,10.334,2.44,-1.23,,"Tao et al., 2009",,Wheat,,experimental
+Chrysene,5.73,1.41,228.3,C1=CC=C2C(=C1)C=CC3=C2C=CC4=CC=CC=C43,1.14,3.03,1.73,0,0.33,1.8234,10.334,3.18,0.08,,"Tao et al., 2009",,Wheat,,experimental
+Chrysene,5.73,5.71,228.3,C1=CC=C2C(=C1)C=CC3=C2C=CC4=CC=CC=C43,1.14,3.03,1.73,0,0.33,1.8234,10.334,3.19,-0.52,,"Tao et al., 2009",,Wheat,,experimental
+Chrysene,5.73,3.47,228.3,C1=CC=C2C(=C1)C=CC3=C2C=CC4=CC=CC=C43,1.14,3.03,1.73,0,0.33,1.8234,10.334,3.16,-0.33,,"Tao et al., 2009",,Wheat,,experimental
+benzo[b]fluoranthene,5.78,3.47,252.3,C1=CC=C2C3=C4C(=CC=C3)C5=CC=CC=C5C4=CC2=C1,1.14,3.19,1.82,0,0.4,1.9536,11.632,2.73,-0.81,,"Tao et al., 2009",,Wheat,,experimental
+benzo[b]fluoranthene,5.78,6.22,252.3,C1=CC=C2C3=C4C(=CC=C3)C5=CC=CC=C5C4=CC2=C1,1.14,3.19,1.82,0,0.4,1.9536,11.632,2.82,-0.98,,"Tao et al., 2009",,Wheat,,experimental
+benzo[b]fluoranthene,5.78,4.81,252.3,C1=CC=C2C3=C4C(=CC=C3)C5=CC=CC=C5C4=CC2=C1,1.14,3.19,1.82,0,0.4,1.9536,11.632,2.93,-0.76,,"Tao et al., 2009",,Wheat,,experimental
+benzo[b]fluoranthene,5.78,2.67,252.3,C1=CC=C2C3=C4C(=CC=C3)C5=CC=CC=C5C4=CC2=C1,1.14,3.19,1.82,0,0.4,1.9536,11.632,3.23,-0.2,,"Tao et al., 2009",,Wheat,,experimental
+benzo[b]fluoranthene,5.78,4.16,252.3,C1=CC=C2C3=C4C(=CC=C3)C5=CC=CC=C5C4=CC2=C1,1.14,3.19,1.82,0,0.4,1.9536,11.632,2.96,-0.66,,"Tao et al., 2009",,Wheat,,experimental
+benzo[k]fluoranthene,6.2,4.33,252.3,C1=CC=C2C=C3C4=CC=CC5=C4C(=CC=C5)C3=CC2=C1,1.14,3.19,1.91,0,0.33,1.9536,11.607,2.67,-1.39,,"Tao et al., 2009",,Wheat,,experimental
+benzo[k]fluoranthene,6.2,2.71,252.3,C1=CC=C2C=C3C4=CC=CC5=C4C(=CC=C5)C3=CC2=C1,1.14,3.19,1.91,0,0.33,1.9536,11.607,3.14,-0.71,,"Tao et al., 2009",,Wheat,,experimental
+benzo[k]fluoranthene,6.2,5.71,252.3,C1=CC=C2C=C3C4=CC=CC5=C4C(=CC=C5)C3=CC2=C1,1.14,3.19,1.91,0,0.33,1.9536,11.607,3.14,-1.04,,"Tao et al., 2009",,Wheat,,experimental
+benzo[k]fluoranthene,6.2,3.47,252.3,C1=CC=C2C=C3C4=CC=CC5=C4C(=CC=C5)C3=CC2=C1,1.14,3.19,1.91,0,0.33,1.9536,11.607,2.96,-1,,"Tao et al., 2009",,Wheat,,experimental
+benzo[k]fluoranthene,6.2,5.31,252.3,C1=CC=C2C=C3C4=CC=CC5=C4C(=CC=C5)C3=CC2=C1,1.14,3.19,1.91,0,0.33,1.9536,11.607,2.81,-1.33,,"Tao et al., 2009",,Wheat,,experimental
+benzo[k]fluoranthene,6.2,3.47,252.3,C1=CC=C2C=C3C4=CC=CC5=C4C(=CC=C5)C3=CC2=C1,1.14,3.19,1.91,0,0.33,1.9536,11.607,3.14,-0.82,,"Tao et al., 2009",,Wheat,,experimental
+benzo[k]fluoranthene,6.2,6.22,252.3,C1=CC=C2C=C3C4=CC=CC5=C4C(=CC=C5)C3=CC2=C1,1.14,3.19,1.91,0,0.33,1.9536,11.607,2.98,-1.23,,"Tao et al., 2009",,Wheat,,experimental
+benzo[k]fluoranthene,6.2,4.74,252.3,C1=CC=C2C=C3C4=CC=CC5=C4C(=CC=C5)C3=CC2=C1,1.14,3.19,1.91,0,0.33,1.9536,11.607,3.04,-1.05,,"Tao et al., 2009",,Wheat,,experimental
+Benzo[a]pyrene,6.41,5.31,252.3,C1=CC=C2C3=C4C(=CC2=C1)C=CC5=C4C(=CC=C5)C=C3,1.14,3.63,1.98,0,0.44,1.9536,11.736,2.71,-1.58,,"Tao et al., 2009",,Wheat,,experimental
+Benzo[a]pyrene,6.41,4.33,252.3,C1=CC=C2C3=C4C(=CC2=C1)C=CC5=C4C(=CC=C5)C=C3,1.14,3.63,1.98,0,0.44,1.9536,11.736,2.69,-1.51,,"Tao et al., 2009",,Wheat,,experimental
+Benzo[a]pyrene,6.41,5.71,252.3,C1=CC=C2C3=C4C(=CC2=C1)C=CC5=C4C(=CC=C5)C=C3,1.14,3.63,1.98,0,0.44,1.9536,11.736,3.07,-1.25,,"Tao et al., 2009",,Wheat,,experimental
+Benzo[a]pyrene,6.41,3.47,252.3,C1=CC=C2C3=C4C(=CC2=C1)C=CC5=C4C(=CC=C5)C=C3,1.14,3.63,1.98,0,0.44,1.9536,11.736,3.13,-0.98,,"Tao et al., 2009",,Wheat,,experimental
+Benzo[a]pyrene,6.41,6.22,252.3,C1=CC=C2C3=C4C(=CC2=C1)C=CC5=C4C(=CC=C5)C=C3,1.14,3.63,1.98,0,0.44,1.9536,11.736,3.31,-1.05,,"Tao et al., 2009",,Wheat,,experimental
+"Dibenzo[a,h]anthracene",6.75,4.33,278.3,C1=CC=C2C(=C1)C=CC3=CC4=C(C=CC5=CC=CC=C54)C=C32,1.14,4,2.04,0,0.44,2.1924,12.96,3.12,-1.49,,"Tao et al., 2009",,Wheat,,experimental
+"Dibenzo[a,h]anthracene",6.75,2.71,278.3,C1=CC=C2C(=C1)C=CC3=CC4=C(C=CC5=CC=CC=C54)C=C32,1.14,4,2.04,0,0.44,2.1924,12.96,3.23,-1.17,,"Tao et al., 2009",,Wheat,,experimental
+"Dibenzo[a,h]anthracene",6.75,2.6,278.3,C1=CC=C2C(=C1)C=CC3=CC4=C(C=CC5=CC=CC=C54)C=C32,1.14,4,2.04,0,0.44,2.1924,12.96,3,-1.39,,"Tao et al., 2009",,Wheat,,experimental
+"Dibenzo[a,h]anthracene",6.75,3.47,278.3,C1=CC=C2C(=C1)C=CC3=CC4=C(C=CC5=CC=CC=C54)C=C32,1.14,4,2.04,0,0.44,2.1924,12.96,3.29,-1.22,,"Tao et al., 2009",,Wheat,,experimental
+"Dibenzo[a,h]anthracene",6.75,5.31,278.3,C1=CC=C2C(=C1)C=CC3=CC4=C(C=CC5=CC=CC=C54)C=C32,1.14,4,2.04,0,0.44,2.1924,12.96,3.15,-1.55,,"Tao et al., 2009",,Wheat,,experimental
+"Dibenzo[a,h]anthracene",6.75,3.47,278.3,C1=CC=C2C(=C1)C=CC3=CC4=C(C=CC5=CC=CC=C54)C=C32,1.14,4,2.04,0,0.44,2.1924,12.96,3.41,-1.1,,"Tao et al., 2009",,Wheat,,experimental
+"Benzo[g,h,i]perylene",6.9,1.41,276.3,C1=CC2=C3C(=C1)C4=CC=CC5=C4C6=C(C=C5)C=CC(=C36)C=C2,1.14,4.07,1.9,0,0.45,2.0838,13.264,3.06,-1.22,,"Tao et al., 2009",,Wheat,,experimental
+"Benzo[g,h,i]perylene",6.9,2.71,276.3,C1=CC2=C3C(=C1)C4=CC=CC5=C4C6=C(C=C5)C=CC(=C36)C=C2,1.14,4.07,1.9,0,0.45,2.0838,13.264,3.57,-0.99,,"Tao et al., 2009",,Wheat,,experimental
+"Benzo[g,h,i]perylene",6.9,5.71,276.3,C1=CC2=C3C(=C1)C4=CC=CC5=C4C6=C(C=C5)C=CC(=C36)C=C2,1.14,4.07,1.9,0,0.45,2.0838,13.264,3.62,-1.25,,"Tao et al., 2009",,Wheat,,experimental
+"Benzo[g,h,i]perylene",6.9,2.6,276.3,C1=CC2=C3C(=C1)C4=CC=CC5=C4C6=C(C=C5)C=CC(=C36)C=C2,1.14,4.07,1.9,0,0.45,2.0838,13.264,3.18,-1.36,,"Tao et al., 2009",,Wheat,,experimental
+"Benzo[g,h,i]perylene",6.9,5.31,276.3,C1=CC2=C3C(=C1)C4=CC=CC5=C4C6=C(C=C5)C=CC(=C36)C=C2,1.14,4.07,1.9,0,0.45,2.0838,13.264,3.2,-1.65,,"Tao et al., 2009",,Wheat,,experimental
+Arazine,2.71,3.55,215.68,CCNC1=NC(=NC(=N1)Cl)NC(C)C,1,1.22,1.29,0.17,1.01,1.6196,7.783,0.8,0.08,,"Trapp et al., 1990",,Barely,,experimental
+"1,2,4-Trichlorobenzene",3.98,3.55,181.4,C1=CC(=C(C=C1Cl)Cl)Cl,1,0.98,0.81,0,0,1.0836,5.248,1.28,0.03,,"Trapp et al., 1990",,Barely,,experimental
+"1,2,3,5-Tetrachlorobenzene",4.59,3.55,215.9,C1=C(C=C(C(=C1Cl)Cl)Cl)Cl,1,1.16,0.85,0,0,1.206,5.922,2.15,0.23,,"Trapp et al., 1990",,Barely,,experimental
+Dieldrin,4.55,3.55,380.9,C1C2C3C(C1C4C2O4)C5(C(=C(C3(C5(Cl)Cl)Cl)Cl)Cl)Cl,1,2.08,0.85,0,0.56,1.9626,9.396,1.98,-0.26,,"Trapp et al., 1990",,Barely,,experimental
+Hexachlorobenzene,5.5,3.55,284.8,C1(=C(C(=C(C(=C1Cl)Cl)Cl)Cl)Cl)Cl,1,1.49,0.99,0,0,1.4508,7.39,2.87,0.07,,"Trapp et al., 1990",,Barely,,experimental
+"2,4,6,2',4'-PCB",5.92,3.55,326.4,C1=CC(=C(C=C1Cl)C2=CC(=C(C=C2Cl)Cl)Cl)Cl,1,2.04,1.61,0,0.13,1.9362,8.868,3.2,0.07,,"Trapp et al., 1990",,Barely,,experimental
+DDT,6.36,3.55,354.5,C1=CC(=CC=C1C(C2=CC=C(C=C2)Cl)C(Cl)(Cl)Cl)Cl,1,1.81,1.76,0,0.16,2.218,10.02,3.41,-0.48,,"Trapp et al., 1990",,Barely,,experimental
+Phenanthrene,4.46,2,178.23,C1=CC=C2C(=C1)C=CC3=CC=CC=C32,0.24,2.06,1.29,0,0.26,1.4544,7.632,1.49,-0.49,,"Kipopoulou et al., 1999",,Carrot,,experimental
+Anthracene,4.54,2,178.23,C1=CC=C2C=C3C=CC=CC3=CC2=C1,0.24,2.29,1.34,0,0.28,1.4544,7.568,1.21,-0.85,,"Kipopoulou et al., 1999",,Carrot,,experimental
+Fluoranthene,5.16,2,202.25,C1=CC=C2C(=C1)C3=CC=CC4=C3C2=CC=C4,0.24,2.377,1.55,0,0.24,1.585,8.827,1.73,-0.95,,"Kipopoulou et al., 1999",,Carrot,,experimental
+Pyrene,5.18,2,202.25,C1=CC2=C3C(=C1)C=CC4=CC=CC(=C43)C=C2,0.24,2.81,1.71,0,0.28,1.5846,8.833,1.85,-0.85,,"Kipopoulou et al., 1999",,Carrot,,experimental
+Benzo[a]anthracene,5.61,2,228.3,C1=CC=C2C(=C1)C=CC3=CC4=CC=CC=C4C=C32,0.24,2.99,1.7,0,0.35,1.8234,10.291,1.36,-1.77,,"Kipopoulou et al., 1999",,Carrot,,experimental
+Chrysene,5.73,2,228.3,C1=CC=C2C(=C1)C=CC3=C2C=CC4=CC=CC=C43,0.24,3.03,1.73,0,0.33,1.8234,10.334,1.62,-1.64,,"Kipopoulou et al., 1999",,Carrot,,experimental
+Benzo[e]pyrene,6.44,2,252.3,C1=CC=C2C(=C1)C3=CC=CC4=C3C5=C(C=CC=C25)C=C4,0.24,3.63,1.96,0,0.35,1.9536,11.656,2.22,-1.74,,"Kipopoulou et al., 1999",,Carrot,,experimental
+Benzo[b]fluoranthene,5.78,2,252.3,C1=CC=C2C3=C4C(=CC=C3)C5=CC=CC=C5C4=CC2=C1,0.24,3.19,1.82,0,0.4,1.9536,11.632,1.38,-1.92,,"Kipopoulou et al., 1999",,Carrot,,experimental
+Benzo[k]fluoranthene,6.2,2,252.3,C1=CC=C2C=C3C4=CC=CC5=C4C(=CC=C5)C3=CC2=C1,0.24,3.19,1.91,0,0.33,1.9536,11.607,1.87,-1.85,,"Kipopoulou et al., 1999",,Carrot,,experimental
+Benzo[a]pyrene,6.41,2,252.3,C1=CC=C2C3=C4C(=CC2=C1)C=CC5=C4C(=CC=C5)C=C3,0.24,3.63,1.98,0,0.44,1.9536,11.736,2.21,-1.72,,"Kipopoulou et al., 1999",,Carrot,,experimental
+"Dibenz-[a,h]anthracene",6.75,2,278.3,C1=CC=C2C(=C1)C=CC3=CC4=C(C=CC5=CC=CC=C54)C=C32,0.24,4,2.04,0,0.44,2.1924,12.96,2.58,-1.7,,"Kipopoulou et al., 1999",,Carrot,,experimental
+Benz[phi]perylene,6.9,2,276.3,C1=CC2=C3C(=C1)C4=CC=CC5=C4C6=C(C=C5)C=CC(=C36)C=C2,0.24,4.07,1.9,0,0.45,2.0838,13.264,2.54,-1.89,,"Kipopoulou et al., 1999",,Carrot,,experimental
+"Indeno[1,2,3-cd]pyrene",6.7,2,276.3,C1=CC=C2C(=C1)C3=C4C2=CC5=CC=CC6=C5C4=C(C=C6)C=C3,0.24,3.61,1.93,0,0.42,2.0838,12.699,2.43,-1.8,,"Kipopoulou et al., 1999",,Carrot,,experimental
+Galaxolide,5.9,1.55,258.4,CC1COCC2=CC3=C(C=C12)C(C(C3(C)C)C)(C)C,0.24,1.09,1.15,0,0.63,2.2487,9.476,1.69,-1.05,,"Macherius et al., 2012",,Carrot,,experimental
+Galaxolide,5.9,1.55,258.4,CC1COCC2=CC3=C(C=C12)C(C(C3(C)C)C)(C)C,1,1.09,1.15,0,0.63,2.2487,9.476,1.66,-1.08,,"Macherius et al., 2012",,Barely,,experimental
+Tonalide,5.7,1.55,258.4,Cc1cc2c(cc1C(C)=O)C(C)(C)CC(C)C2(C)C,0.24,1.05,1.06,0,0.68,2.3143,8.671,1.26,-1.3,,"Macherius et al., 2012",,Carrot,,experimental
+Tonalide,5.7,1.55,258.4,Cc1cc2c(cc1C(C)=O)C(C)(C)CC(C)C2(C)C,1,1.05,1.06,0,0.68,2.3143,8.671,1.74,-0.83,,"Macherius et al., 2012",,Barely,,experimental
+Triclosan,4.8,13.8,289.5,C1=CC(=C(C=C1Cl)O)OC2=C(C=C(C=C2)Cl)Cl,0.1,1.73,1.55,0.47,0.45,1.8088,9.194,1.41,-1.03,,"Pannu et al., 2012",,Radish,,experimental
+Triclosan,4.8,4.1,289.5,C1=CC(=C(C=C1Cl)O)OC2=C(C=C(C=C2)Cl)Cl,0.1,1.73,1.55,0.47,0.45,1.8088,9.194,1.04,-0.8,,"Prosser et al., 2014",,Radish,,experimental
+Triclosan,4.8,3.9,289.5,C1=CC(=C(C=C1Cl)O)OC2=C(C=C(C=C2)Cl)Cl,0.24,1.73,1.55,0.47,0.45,1.8088,9.194,1.27,-0.62,,"Prosser et al., 2014",,Carrot,,experimental
+Trimethoprim,0.91,0.69,290.32,COC1=CC(=CC(=C1OC)OC)CC2=CN=C(N=C2N)N,0.24,1.89,2.5,0.21,1.69,2.1813,11.64,-0.07,-1.1,,"Boxall et al., 2006",,Carrot,,experimental
+Carbamazepine,2.45,1.72,236.27,C1=CC=C2C(=C1)C=CC3=CC=CC=C3N2C(=O)N,0.1,2.15,1.9,0.5,1.15,1.8106,10.07,0.02,0.92,,"Carter et al., 2014",,Radish,,experimental
+alpha-endosulfan,0.495544338,8.8,406.9,C1[C@@H]2[C@H](COS(=O)O1)[C@]3(C(=C([C@@]2(C3(Cl)Cl)Cl)Cl)Cl)Cl,0.1,2.23,0.94,0,1.03,2.0819,9.233,,-0.6127882,,"GONZALEZ et al., 2003",,leek,,experimental
+endosulfan sulfate,0.563481085,8.8,422.9,C1C2C(COS(=O)(=O)O1)C3(C(=C(C2(C3(Cl)Cl)Cl)Cl)Cl)Cl,0.1,2.16,1.57,0,1.19,2.1406,10.78,,0.377451963,,"GONZALEZ et al., 2003",,leek,,experimental
+dieldrin,0.716003344,8.8,380.9,C1C2C3C(C1C4C2O4)C5(C(=C(C3(C5(Cl)Cl)Cl)Cl)Cl)Cl,0.1,2.09,1.57,0,0.75,2.0065,8.216,,-0.663940722,,"GONZALEZ et al., 2003",,leek,,experimental
+heptachlor,0.72427587,8.8,373.3,C1=CC(C2C1C3(C(=C(C2(C3(Cl)Cl)Cl)Cl)Cl)Cl)Cl,0.1,2.08,0.85,0,0.56,1.9626,9.396,,0.218299126,,"GONZALEZ et al., 2003",,leek,,experimental
+heptachlor epoxide,0.62324929,8.8,389.3,C12C(C(C3C1O3)Cl)C4(C(=C(C2(C4(Cl)Cl)Cl)Cl)Cl)Cl,0.1,2.22,1.11,0,0.53,1.9557,9.01,,-0.868060705,,"GONZALEZ et al., 2003",,leek,,experimental
+Acetamiprid,0.8,3.05,222.67,CC(=NC#N)N(C)CC1=CN=C(C=C1)Cl,0.53,1.4,1.57,0.05,1.21,1.6726,7.51,,-0.175729196,,"Wang et.al., 2020",,Maize,,calculate(1)
+Azoxystrobin,2.5,3.05,403.4,COC=C(C1=CC=CC=C1OC2=NC=NC(=C2)OC3=CC=CC=C3C#N)C(=O)OC,0.53,2.59,2.01,0,2.3,2.9165,14.84,,-0.137461857,,"Wang et.al., 2020",,Maize,,experimental
+Tebuconazole,3.7,3.05,307.82,CC(C)(C)C(CCC1=CC=C(C=C1)Cl)(CN2C=NC=N2)O,0.53,1.54,1.45,0.24,1.44,2.4113,10.96,,-0.07773118,,"Wang et.al., 2020",,Maize,,experimental
